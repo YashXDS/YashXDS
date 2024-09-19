@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashxds&show_icons=true&locale=en" alt="yashxds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashxds&" alt="yashxds" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashXDS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
