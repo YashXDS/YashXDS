@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Preparing myself to make world innovative with AI.✔**
 
-- 📫 How to reach me **yapatel@gmail.com**
+- 📫 How to reach me **yapatel9023@gmail.com**
 
 - ⚡ Fun fact **I am Engineer 😁**
 
